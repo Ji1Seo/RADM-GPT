@@ -39,7 +39,6 @@ instructions = """
 def gpt_action(image_file_idx, audio_file_idx):
 
     audio_text = whisper(audio_file_idx) # Audio to Text
-    audio_text = "go straight and grip the object" # For Test, Delete!
     vision_text = vision_to_text(image_file_idx) # Vision to Text
     
     audio_text_emb = get_embedding(audio_text) # Emb1
