@@ -1,5 +1,5 @@
-Robot Action Decision Making GPT 
-Neural-Net Framework
-(RADM - GPT)
-1. Convert audio to text and camera images to text using GPT.2.  Transform text into embeddings using a pretrained model.3. Compute action probabilities using SoftMax with cosine similarity.4. Utilize GPT to perform actions based on image, audio, and probability data.5. Update the action probability policy network.5. Refine predictions through user feedback and KL divergence.
-![image](https://github.com/user-attachments/assets/a340a52b-0c0d-40fc-bbf8-aacc5d1b474c)
+![image](https://github.com/user-attachments/assets/b398ce1a-7410-4445-866f-74d425d46b32)
+![image](https://github.com/user-attachments/assets/f90f950f-1525-4d85-aec0-da9620d26aef)
+![image](https://github.com/user-attachments/assets/bb773f4c-ef41-4370-9916-058b4fe5992a)
+
+
